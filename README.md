@@ -18,3 +18,4 @@ Cambio realizado por Fernando Benitez
 Cambio realizado por David Jesús López Romero
 Cambio realizado por Adrián Moya Maireles.
 Cambio realizado por Rafael Roldán Campos
+Cambio realizado por Juan Carlos Toro.
